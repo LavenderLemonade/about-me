@@ -14,3 +14,7 @@ Right now, I want to really hone in on learning C#, as I want to work with Unity
 
 When I'm not ruining my eyes staring at a code editor, you'll most likely find me ruining my eyes staring at a YouTube video or a video game. These days you'll also find me painting models of all sizes, from Warhammer to Gunpla, collecting and playing board games, reading fantasy and sci-fi novels, collecting manga, cooking korean dishes, and just trying to do too much at once. 
 
+### What've I cooked most recently? 
+
+Tteokbokki. Honestly love this, especially the spiciness of it. :D
+
