@@ -16,5 +16,5 @@ When I'm not ruining my eyes staring at a code editor, you'll most likely find m
 
 ### What've I cooked most recently? 
 
-Tteokbokki. Honestly love this, especially the spiciness of it. :D
+Kimchi grilled cheese toast. Easy to make, lovely taste, quite healthy too. :D 
 
