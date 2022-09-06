@@ -16,5 +16,5 @@ When I'm not ruining my eyes staring at a code editor, you'll most likely find m
 
 ### What've I cooked most recently? 
 
-Kimchi grilled cheese toast. Easy to make, lovely taste, quite healthy too. :D 
+Fried walleye. Pretty easy recipe too: hit your fish with some salt and pepper, slice up, dunk in potato starch, fry in oil. Really tasty. :D
 
