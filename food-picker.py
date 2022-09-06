@@ -26,4 +26,4 @@ elif choice == 'm':
         elif food == 'j':
             print("So, we thining of like sushi or something like gyudon?")
         elif food == 'c':
-            print("Let's try making some dumplings then!")
+            print("Let's try making some dumplings then, unless you have a better idea!")
